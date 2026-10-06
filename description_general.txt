@@ -1,0 +1,10 @@
+Description
+Pouvez-vous prédire qui utilise mon logiciel ? La société Infologic édite et intègre des solutions logicielles pour l’agroalimentaire depuis 1982. L'une des clés pour l'évolution et la maintenance de ces logiciels repose sur les tests continues effectués par des équipes internes. Ces testeurs utilisent divers profils pour tester différentes fonctionnalités. Pour chaque problème rencontré, ils doivent reporter leur utilisation du logiciel à partir de leur vrai profil, les obligeant à effectuer des manipulations parfois longues et rébarbatives.
+
+C'est pourquoi nous proposons d'étudier s'il est possible d'identifier un utilisateur à partir de traces d'utilisation du logiciel (actions effectuées sur le logiciel) en construisant un modèle de classification utilisant des techniques de machine learning.
+
+D'autre part, un tel modèle permettrait de diagnostiquer des tentatives d'intrusion logicielle, par exemple lorsqu'un pirate tente de se faire passer pour un utilisateur réel en se connectant avec son compte.
+
+Vous disposez d'un vaste ensemble de données de traces logicielles, à partir desquelles vous devez créer des fonctionnalités et former un modèle. Une fois votre modèle prêt, appliquez-le aux données de test et soumettez votre résultat !
+
+Bonne chance et bonne apprentissage !
